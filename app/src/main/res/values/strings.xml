@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ZoneTrack-Covid19</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_key" translatable="false">AIzaSyCBtGZX5Bjb4TJ0XssQITK8N3RRzqoEXmk</string>
 </resources>

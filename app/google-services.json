@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "776446181949",
+    "firebase_url": "https://zonetrack-covid19.firebaseio.com",
+    "project_id": "zonetrack-covid19",
+    "storage_bucket": "zonetrack-covid19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776446181949:android:10e349ecdf192edc96e054",
+        "android_client_info": {
+          "package_name": "com.example.zonetrack_covid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776446181949-fjkmsvp6b3busotgprbk9phedha53q2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zonetrack_covid19",
+            "certificate_hash": "bf766e3b7f40c5753c1de7235dbe495fad976e95"
+          }
+        },
+        {
+          "client_id": "776446181949-6vjaloh2v08ftfi00l966fe8sfs6fit6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrME6VtQDv0vakuBR8HdAjLXY9QOkNx38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776446181949-6vjaloh2v08ftfi00l966fe8sfs6fit6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

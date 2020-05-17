@@ -1,0 +1,734 @@
+District,State,Zone
+South Andamans,Andaman and Nicobar lslands,Red 
+Nicobars,Andaman and Nicobar lslands,Green 
+North and Middle Andaman,Andaman and Nicobar lslands,Green 
+Kurnool,Andhra Pradesh,Red 
+Guntur,Andhra Pradesh,Red 
+Krishna,Andhra Pradesh,Red 
+Chittoor,Andhra Pradesh,Red 
+SPSR Nellore,Andhra Pradesh,Red 
+West Godavari,Andhra Pradesh,Orange 
+YSR (Kadapa),Andhra Pradesh,Orange 
+Anantapur,Andhra Pradesh,Orange 
+Prakasam,Andhra Pradesh,Orange 
+East Godavari,Andhra Pradesh,Orange 
+Srikakulam,Andhra Pradesh,Orange 
+Visakhapatnam,Andhra Pradesh,Orange 
+Vizianagaram,Andhra Pradesh,Green 
+Lohit,Arunachal Pradesh,Green 
+Changlang,Arunachal Pradesh,Green 
+Dibang Valley,Arunachal Pradesh,Green 
+East Kameng,Arunachal Pradesh,Green 
+East Slang,Arunachal Pradesh,Green 
+Kurung Kumey,Arunachal Pradesh,Green 
+Lower Dibang Valley,Arunachal Pradesh,Green 
+Lower Subansiri,Arunachal Pradesh,Green 
+Papum Pare,Arunachal Pradesh,Green 
+Tawang,Arunachal Pradesh,Green 
+Tirap,Arunachal Pradesh,Green 
+Upper Siang,Arunachal Pradesh,Green 
+Upper Subansiri,Arunachal Pradesh,Green 
+West Kameng,Arunachal Pradesh,Green 
+West Siang,Arunachal Pradesh,Green 
+Anjaw,Arunachal Pradesh,Green 
+Longding,Arunachal Pradesh,Green 
+Kra Daadi,Arunachal Pradesh,Green 
+Namsai,Arunachal Pradesh,Green 
+Siang,Arunachal Pradesh,Green 
+Kamle,Arunachal Pradesh,Green 
+Lower Siang,Arunachal Pradesh,Green 
+Pakke Kessang,Arunachal Pradesh,Green 
+Lepa Rada,Arunachal Pradesh,Green 
+Shi Yomi,Arunachal Pradesh,Green 
+Dhubri,Assam,Orange 
+Morigaon,Assam,Orange 
+Goalpara,Assam,Orange 
+Golaghat,Assam,Green 
+Karimganj,Assam,Green 
+Nalbari,Assam,Green 
+Hailakandi,Assam,Green 
+Cachar,Assam,Green 
+Kamrup,Assam,Green 
+Lakhimpur,Assam,Green 
+Kamrup Metro,Assam,Green 
+South Salmara Mankachar,Assam,Green 
+Barpeta,Assam,Green 
+Bongaigaon,Assam,Green 
+Darrang,Assam,Green 
+Dhemaji,Assam,Green 
+Dibrugarh,Assam,Green 
+Jorhat,Assam,Green 
+Karbi Anglong,Assam,Green 
+Kokrajhar,Assam,Green 
+Nagaon,Assam,Green 
+Dima Hasao,Assam,Green 
+Sivasagar,Assam,Green 
+Sonitpur,Assam,Green 
+Tinsukia,Assam,Green 
+Chirang,Assam,Green 
+Baksa,Assam,Green 
+Udalguri,Assam,Green 
+Biswanath,Assam,Green 
+Majuli,Assam,Green 
+Charaideo,Assam,Green 
+Hojai,Assam,Green 
+West Karbi Anglong,Assam,Green 
+Munger,Bihar,Red 
+Patna,Bihar,Red 
+Rohtas,Bihar,Red 
+Buxar,Bihar,Red 
+Gaya,Bihar,Red 
+Nalanda,Bihar,Orange 
+Kaimur (Bhabua),Bihar,Orange 
+Siwan,Bihar,Orange 
+Gopalganj,Bihar,Orange 
+Bhojpur,Bihar,Orange 
+Begusarai,Bihar,Orange 
+Aurangabad,Bihar,Orange 
+Madhubani,Bihar,Orange 
+Purbi Champaran (East Champaran),Bihar,Orange 
+Bhagalpur,Bihar,Orange 
+Arwal,Bihar,Orange 
+Saran,Bihar,Orange 
+Nawada,Bihar,Orange 
+Lakhisarai,Bihar,Orange 
+Banka,Bihar,Orange 
+Vaishali,Bihar,Orange 
+Darbhanga,Bihar,Orange 
+Jehanabad,Bihar,Orange 
+Madhepura,Bihar,Orange 
+Purnia,Bihar,Orange 
+Sheikhpura,Bihar,Green 
+Araria,Bihar,Green 
+Jamui,Bihar,Green 
+Katihar,Bihar,Green 
+Khagaria,Bihar,Green 
+Kishanganj,Bihar,Green 
+Muzaffarpur,Bihar,Green 
+Pashchim Champaran (West Champaran),Bihar,Green 
+Saharsa,Bihar,Green 
+Samastipur,Bihar,Green 
+Sheohar,Bihar,Green 
+Sitamarhi,Bihar,Green 
+Supaul,Bihar,Green 
+Chandigarh,Chandigarh,Red 
+Raipur,Chhattisgarh,Red 
+Korba,Chhattisgarh,Orange 
+Surajpur,Chhattisgarh,Green 
+Bilaspur,Chhattisgarh,Green 
+Durg,Chhattisgarh,Green 
+Rajnandgaon,Chhattisgarh,Green 
+Basta,Chhattisgarh,Green 
+Dantewada,Chhattisgarh,Green 
+Dhamtari,Chhattisgarh,Green 
+Janjgir-Champa,Chhattisgarh,Green 
+Jashpur,Chhattisgarh,Green 
+Kanker,Chhattisgarh,Green 
+Kabirdham,Chhattisgarh,Green 
+Korea (Koriya),Chhattisgarh,Green 
+Mahasamund,Chhattisgarh,Green 
+Raigarh,Chhattisgarh,Green 
+Surguia,Chhattisgarh,Green 
+Bijapur,Chhattisgarh,Green 
+Nayaranpur,Chhattisgarh,Green 
+Sukma,Chhattisgarh,Green 
+Kondagaon,Chhattisgarh,Green 
+Baloda Bazar,Chhattisgarh,Green 
+Garivaband,Chhattisgarh,Green 
+Balod,Chhattisgarh,Green 
+Munseli,Chhattisgarh,Green 
+Balrampur,Chhattisgarh,Green 
+Bemetara,Chhattisgarh,Green 
+Dadra And Nagar Haveli,Dadra and Nagar Haveli and Daman and Diu,Green 
+Daman,Dadra and Nagar Haveli and Daman and Diu,Green 
+Diu,Dadra and Nagar Haveli and Daman and Diu,Green 
+South East Delhi,Delhi,Red 
+Central Delhi,Delhi,Red 
+North Delhi,Delhi,Red 
+South Delhi,Delhi,Red 
+North East Delhi,Delhi,Red 
+West Delhi,Delhi,Red 
+Shahdara,Delhi,Red 
+East Delhi,Delhi,Red 
+New Delhi,Delhi,Red 
+North West Delhi,Delhi,Red 
+South West Delhi,Delhi,Red 
+North Goa,Goa,Green 
+South Goa,Goa,Green 
+Ahmedabad,Gujarat,Red 
+Surat,Gujarat,Red 
+Vadodara,Gujarat,Red 
+Anand,Gujarat,Red 
+Banaskantha,Gujarat,Red 
+Panchmahal,Gujarat,Red 
+Bhavnagar,Gujarat,Red 
+Gandhinagar,Gujarat,Red 
+Aravalli,Gujarat,Red 
+Rajkot,Gujarat,Orange 
+Bharuch,Gujarat,Orange 
+Botad,Gujarat,Orange 
+Narmada,Gujarat,Orange 
+Chhota Udaipur (Chhotaudepur),Gujarat,Orange 
+Mahisagar,Gujarat,Orange 
+Mehsana,Gujarat,Orange 
+Patan,Gujarat,Orange 
+Kheda,Gujarat,Orange 
+Valsad,Gujarat,Orange 
+Dohad,Gujarat,Orange 
+Kachchh (Kutch),Gujarat,Orange 
+Navsari,Gujarat,Orange 
+Gir Somnath,Gujarat,Orange 
+Dang,Gujarat,Orange 
+Sabarkantha,Gujarat,Orange 
+Tapi,Gujarat,Orange 
+Jamnagar,Gujarat,Orange 
+Surendranagar,Gujarat,Orange 
+Morbi,Gujarat,Green 
+Amreli,Gujarat,Green 
+Porbandar,Gujarat,Green 
+Junagadh,Gujarat,Green 
+Devbhumi Dwarka (Devbhoomi Dwarka),Gujarat,Green 
+Sonipat,Haryana,Red 
+Faridabad,Haryana,Red 
+Gurugram (Gurgaon),Haryana,Orange 
+Nuh,Haryana,Orange 
+Panipat,Haryana,Orange 
+Panchkula,Haryana,Orange 
+Palwal,Haryana,Orange 
+Rohtak,Haryana,Orange 
+Hisar,Haryana,Orange 
+Ambala,Haryana,Orange 
+Jhajjar,Haryana,Orange 
+Bhiwani,Haryana,Orange 
+Kaithal,Haryana,Orange 
+Kurukshetra,Haryana,Orange 
+Karnal,Haryana,Orange 
+Jind,Haryana,Orange 
+Sirsa,Haryana,Orange 
+Yamunanagar,Haryana,Orange 
+Fatehabad,Haryana,Orange 
+Charkhi Dadri,Haryana,Orange 
+Mahendragarh,Haryana,Green 
+Rewari,Haryana,Green 
+Una,Himachal Pradesh,Orange 
+Chamba,Himachal Pradesh,Orange 
+Hamirpur,Himachal Pradesh,Orange 
+Kangra,Himachal Pradesh,Orange 
+Sirmaur,Himachal Pradesh,Orange 
+Solan,Himachal Pradesh,Orange 
+Bilaspur,Himachal Pradesh,Green 
+Kinnaur,Himachal Pradesh,Green 
+Kullu,Himachal Pradesh,Green 
+Lahul and Spiti,Himachal Pradesh,Green 
+Mandi,Himachal Pradesh,Green 
+Shimla,Himachal Pradesh,Green 
+Bandipora,Jammu and Kashmir,Red 
+Shopian,Jammu and Kashmir,Red 
+Anantnag,Jammu and Kashmir,Red 
+Srinagar,Jammu and Kashmir,Red 
+Baramulla,Jammu and Kashmir,Orange 
+Kupwara,Jammu and Kashmir,Orange 
+Ganderbal,Jammu and Kashmir,Orange 
+Jammu,Jammu and Kashmir,Orange 
+Udhampur,Jammu and Kashmir,Orange 
+Kulgam,Jammu and Kashmir,Orange 
+Budgam,Jammu and Kashmir,Orange 
+Samba,Jammu and Kashmir,Orange 
+Kathua,Jammu and Kashmir,Orange 
+Rajouri,Jammu and Kashmir,Orange 
+Ramban,Jammu and Kashmir,Orange 
+Reasi,Jammu and Kashmir,Orange 
+Pulwama,Jammu and Kashmir,Green 
+Kishtwar,Jammu and Kashmir,Green 
+Doda,Jammu and Kashmir,Green 
+Poonch,Jammu and Kashmir,Green 
+Ranchi,Jharkhand,Red 
+Bokaro,Jharkhand,Orange 
+Garhwa,Jharkhand,Orange 
+Dhanbad,Jharkhand,Orange 
+Deoghar,Jharkhand,Orange 
+Hazaribagh,Jharkhand,Orange 
+Simdega,Jharkhand,Orange 
+Giridih,Jharkhand,Orange 
+Koderma,Jharkhand,Orange 
+Jamtara,Jharkhand,Orange 
+Chatra,Jharkhand,Green 
+Dumka,Jharkhand,Green 
+East Singhbum,Jharkhand,Green 
+Godda,Jharkhand,Green 
+Gumla,Jharkhand,Green 
+Latehar,Jharkhand,Green 
+Lohardaga,Jharkhand,Green 
+Pakur,Jharkhand,Green 
+Palamu,Jharkhand,Green 
+Sahebganj,Jharkhand,Green 
+Saraikela Kharsawan,Jharkhand,Green 
+West Singhbhum,Jharkhand,Green 
+Khunti,Jharkhand,Green 
+Ramgarh,Jharkhand,Green 
+Bengaluru Urban (Bangalore City),Karnataka,Red 
+Mysuru (Mysore),Karnataka,Red 
+Bengaluru Rural,Karnataka,Red 
+Belagavi (Belgaum),Karnataka,Orange 
+Vijayapura,Karnataka,Orange 
+Kalaburagi (Gulbarga),Karnataka,Orange 
+Bagalkote,Karnataka,Orange 
+Mandya,Karnataka,Orange 
+Ballari (Bellary),Karnataka,Orange 
+Dharwad,Karnataka,Orange 
+Dakshina Kannada (South Canara),Karnataka,Orange 
+Bidar,Karnataka,Orange 
+Chikkaballapura,Karnataka,Orange 
+Gadag,Karnataka,Orange 
+Uttara Kannada (North Canara),Karnataka,Orange 
+Tumakuru,Karnataka,Orange 
+Davangere,Karnataka,Green 
+Udupi,Karnataka,Green 
+Chamarajanagar,Karnataka,Green 
+Chikkamagaluru (Chikmagalur),Karnataka,Green 
+Chitradurga,Karnataka,Green 
+Hassan,Karnataka,Green 
+Haveri,Karnataka,Green 
+Kodagu,Karnataka,Green 
+Kolar,Karnataka,Green 
+Koppal,Karnataka,Green 
+Raichur,Karnataka,Green 
+Shivamogga,Karnataka,Green 
+Ramanagara,Karnataka,Green 
+Yadgir,Karnataka,Green 
+Kannur,Kerala,Red 
+Kottayam,Kerala,Red 
+Kasaragod,Kerala,Orange 
+Idukki,Kerala,Orange 
+Kozhikode (Calicut),Kerala,Orange 
+Kollam,Kerala,Orange 
+Palakkad,Kerala,Orange 
+Pathanamthitta,Kerala,Orange 
+Malappuram,Kerala,Orange 
+Thiruvananthapuram (Trivandrum),Kerala,Orange 
+Alappuzha (Alleppey),Kerala,Orange 
+Thrissur,Kerala,Orange 
+Ernakulam,Kerala,Green 
+Wayanad,Kerala,Green 
+Leh Ladakh,Ladakh,Orange 
+Kargil,Ladakh,Orange 
+Lakshadweep ,Lakshadweep,Green 
+lndore,Madhya Pradesh,Red 
+Bhopal,Madhya Pradesh,Red 
+Ujjain,Madhya Pradesh,Red 
+Jabalpur,Madhya Pradesh,Red 
+Dhar,Madhya Pradesh,Red 
+Barwani,Madhya Pradesh,Red 
+East Nimar,Madhya Pradesh,Red 
+Dewas,Madhya Pradesh,Red 
+Gwalior,Madhya Pradesh,Red 
+Khargone,Madhya Pradesh,Orange 
+Raisen,Madhya Pradesh,Orange 
+Hoshangabad,Madhya Pradesh,Orange 
+Ratlam,Madhya Pradesh,Orange 
+Agar Malwa,Madhya Pradesh,Orange 
+Mandsaur,Madhya Pradesh,Orange 
+Sagar,Madhya Pradesh,Orange 
+Shajapur,Madhya Pradesh,Orange 
+Chhindwara,Madhya Pradesh,Orange 
+Alirajpur,Madhya Pradesh,Orange 
+Tikamgarh,Madhya Pradesh,Orange 
+Shahdol,Madhya Pradesh,Orange 
+Sheopur,Madhya Pradesh,Orange 
+Dindori,Madhya Pradesh,Orange 
+Burhanpur,Madhya Pradesh,Orange 
+Harda,Madhya Pradesh,Orange 
+Betul,Madhya Pradesh,Orange 
+Vidisha,Madhya Pradesh,Orange 
+Morena,Madhya Pradesh,Orange 
+Rewa,Madhya Pradesh,Green 
+Ashoknagar,Madhya Pradesh,Green 
+Rajgarh,Madhya Pradesh,Green 
+Shivpuri,Madhya Pradesh,Green 
+Anuppur,Madhya Pradesh,Green 
+Balaghat,Madhya Pradesh,Green 
+Bhind,Madhya Pradesh,Green 
+Chhatarpur,Madhya Pradesh,Green 
+Damoh,Madhya Pradesh,Green 
+Datia,Madhya Pradesh,Green 
+Guna,Madhya Pradesh,Green 
+Jhabua,Madhya Pradesh,Green 
+Katni,Madhya Pradesh,Green 
+Mandla,Madhya Pradesh,Green 
+Narsinghpur,Madhya Pradesh,Green 
+Neemuch,Madhya Pradesh,Green 
+Panna,Madhya Pradesh,Green 
+Satna,Madhya Pradesh,Green 
+Sehore,Madhya Pradesh,Green 
+Seoni,Madhya Pradesh,Green 
+Sidhi,Madhya Pradesh,Green 
+Umaria,Madhya Pradesh,Green 
+Singrauli,Madhya Pradesh,Green 
+Niwari,Madhya Pradesh,Green 
+Mumbai,Maharashtra,Red 
+Pune,Maharashtra,Red 
+Thane,Maharashtra,Red 
+Nashik,Maharashtra,Red 
+Palghar,Maharashtra,Red 
+Nagpur,Maharashtra,Red 
+Solapur,Maharashtra,Red 
+Yavatmal,Maharashtra,Red 
+Aurangabad,Maharashtra,Red 
+Satara,Maharashtra,Red 
+Dhule,Maharashtra,Red 
+Akola,Maharashtra,Red 
+Jalgaon,Maharashtra,Red 
+Mumbai Suburban,Maharashtra,Red 
+Raigad,Maharashtra,Orange 
+Ahmednagar,Maharashtra,Orange 
+Amravati,Maharashtra,Orange 
+Buldhana,Maharashtra,Orange 
+Nandurbar,Maharashtra,Orange 
+Kolhapur,Maharashtra,Orange 
+Hingoli,Maharashtra,Orange 
+Ratnagiri,Maharashtra,Orange 
+Jalna,Maharashtra,Orange 
+Nanded,Maharashtra,Orange 
+Chandrapur,Maharashtra,Orange 
+Parbhani,Maharashtra,Orange 
+Sangli,Maharashtra,Orange 
+Latur,Maharashtra,Orange 
+Bhandara,Maharashtra,Orange 
+Beed,Maharashtra,Orange 
+Osmanabad,Maharashtra,Green 
+Washim,Maharashtra,Green 
+Sindhudurg,Maharashtra,Green 
+Gondia,Maharashtra,Green 
+Gadchiroli,Maharashtra,Green 
+Wardha,Maharashtra,Green 
+lmphal West,Manipur,Green 
+Thoubal,Manipur,Green 
+Bishnupur,Manipur,Green 
+Chandel,Manipur,Green 
+Churachandpur,Manipur,Green 
+lmphal East,Manipur,Green 
+Senapati,Manipur,Green 
+Tamenglong,Manipur,Green 
+Ukhrul,Manipur,Green 
+Kakching,Manipur,Green 
+Kangpokpi,Manipur,Green 
+Jiribam,Manipur,Green 
+Noney,Manipur,Green 
+Pherzawl,Manipur,Green 
+Tengnoupal,Manipur,Green 
+Kamjong,Manipur,Green 
+East Khasi Hills,Meghalaya,Orange 
+East Garo Hills,Meghalaya,Green 
+West Jaintia Hills,Meghalaya,Green 
+Ri Bhoi,Meghalaya,Green 
+South Garo Hills,Meghalaya,Green 
+West Garo Hills,Meghalaya,Green 
+West Khasi Hills,Meghalaya,Green 
+North Garo Hills,Meghalaya,Green 
+East Jaintia Hills,Meghalaya,Green 
+South West Khasi Hills,Meghalaya,Green 
+South West Garo Hills,Meghalaya,Green 
+Aizawl,Mizoram,Green 
+Champhai,Mizoram,Green 
+Kolasib,Mizoram,Green 
+Lawngtlai,Mizoram,Green 
+Lunglei,Mizoram,Green 
+Mamit,Mizoram,Green 
+Saiha,Mizoram,Green 
+Serchhip,Mizoram,Green 
+Hnahthial,Mizoram,Green 
+Saitual,Mizoram,Green 
+Khawzawl,Mizoram,Green 
+Dimapur,Nagaland,Green 
+Kohima,Nagaland,Green 
+Mokokchung,Nagaland,Green 
+Mon,Nagaland,Green 
+Phek,Nagaland,Green 
+Tuensang,Nagaland,Green 
+Wokha,Nagaland,Green 
+Zunheboto,Nagaland,Green 
+Peren,Nagaland,Green 
+Kiphire,Nagaland,Green 
+Longleng,Nagaland,Green 
+Jaiapur,Odisha,Red 
+Bhadrak,Odisha,Red 
+Baleshwar (Balasore),Odisha,Red 
+Khordha,Odisha,Orange 
+Sundargarh,Odisha,Orange 
+Kendrapara,Odisha,Orange 
+Koraput,Odisha,Orange 
+Dhenkanal,Odisha,Orange 
+Kalahandi,Odisha,Orange 
+Cuttack,Odisha,Green 
+Puri,Odisha,Green 
+Anugul,Odisha,Green 
+Balangir,Odisha,Green 
+Bargarh,Odisha,Green 
+Boudh,Odisha,Green 
+Deogarh,Odisha,Green 
+Gajapati,Odisha,Green 
+Ganjam,Odisha,Green 
+Jagatsinghpur,Odisha,Green 
+Jharsuguda,Odisha,Green 
+Kandhamal,Odisha,Green 
+Kendujhar,Odisha,Green 
+Malkangiri,Odisha,Green 
+Mayurbhanj,Odisha,Green 
+Nabarangpur,Odisha,Green 
+Nayagarh,Odisha,Green 
+Nuapada,Odisha,Green 
+Rayagada,Odisha,Green 
+Sambalpur,Odisha,Green 
+Sonepur,Odisha,Green 
+Pondicherry,Puducherry,Orange 
+Karaikal,Puducherry,Green 
+Mahe,Puducherry,Green 
+Yanam,Puducherry,Green 
+Jalandhar,Punjab,Red 
+Patiala,Punjab,Red 
+Ludhiana,Punjab,Red 
+SAS Nagar (Mohali),Punjab,Orange 
+Pathankot,Punjab,Orange 
+Mansa,Punjab,Orange 
+Tarn Taran,Punjab,Orange 
+Amritsar,Punjab,Orange 
+Kapurthala,Punjab,Orange 
+Hoshiarpur,Punjab,Orange 
+Faridkot,Punjab,Orange 
+Sangrur,Punjab,Orange 
+Shahid Bhagat Singh Nagar (Nawanshahr),Punjab,Orange 
+Firozpur (Firojpur or Ferozepur),Punjab,Orange 
+Sri Muktsar Sahib,Punjab,Orange 
+Moga,Punjab,Orange 
+Gurdaspur,Punjab,Orange 
+Barnala,Punjab,Orange 
+Rupnagar (Ropar),Punjab,Green 
+Fatehgarh Sahib,Punjab,Green 
+Bathinda,Punjab,Green 
+Fazilka,Punjab,Green 
+Jaipur,Rajasthan,Red 
+Jodhpur,Rajasthan,Red 
+Kota,Rajasthan,Red 
+Ajmer,Rajasthan,Red 
+Bharatpur,Rajasthan,Red 
+Nagaur,Rajasthan,Red 
+Banswara,Rajasthan,Red 
+Jhalawar,Rajasthan,Red 
+Tonk,Rajasthan,Orange 
+Jaisalmer,Rajasthan,Orange 
+Dausa,Rajasthan,Orange 
+Jhunjhunu,Rajasthan,Orange 
+Hanumangarh,Rajasthan,Orange 
+Bhilwara,Rajasthan,Orange 
+Sawai Madhopur,Rajasthan,Orange 
+Chittorgarh,Rajasthan,Orange 
+Dungarpur,Rajasthan,Orange 
+Udaipur,Rajasthan,Orange 
+Dholpur,Rajasthan,Orange 
+Sikar,Rajasthan,Orange 
+Alwar,Rajasthan,Orange 
+Bikaner,Rajasthan,Orange 
+Churu,Rajasthan,Orange 
+Pali,Rajasthan,Orange 
+Barmer,Rajasthan,Orange 
+Karauli,Rajasthan,Orange 
+Rajsamand,Rajasthan,Orange 
+Baran,Rajasthan,Green 
+Bundi,Rajasthan,Green 
+Ganganagar,Rajasthan,Green 
+Jalore,Rajasthan,Green 
+Sirohi,Rajasthan,Green 
+Pratapgarh,Rajasthan,Green 
+North Sikkim,Sikkim,Green 
+East Sikkim,Sikkim,Green 
+South Sikkim,Sikkim,Green 
+West Sikkim,Sikkim,Green 
+Chennai,Tamil Nadu,Red 
+Madurai,Tamil Nadu,Red 
+Namakkal,Tamil Nadu,Red 
+Thanjavur (Tanjore),Tamil Nadu,Red 
+Chengalpattu,Tamil Nadu,Red 
+Thiruvallur (Tiruvallur),Tamil Nadu,Red 
+Tiruppur,Tamil Nadu,Red 
+Ranipet,Tamil Nadu,Red 
+Virudhunagar,Tamil Nadu,Red 
+Thiruvarur (Tiruvarur),Tamil Nadu,Red 
+Vellore,Tamil Nadu,Red 
+Kanchipuram,Tamil Nadu,Red 
+Theni,Tamil Nadu,Orange 
+Tenkasi,Tamil Nadu,Orange 
+Nagapattinam,Tamil Nadu,Orange 
+Dindigul,Tamil Nadu,Orange 
+Villupuram,Tamil Nadu,Orange 
+Coimbatore,Tamil Nadu,Orange 
+Cuddalore,Tamil Nadu,Orange 
+Salem,Tamil Nadu,Orange 
+Karur,Tamil Nadu,Orange 
+Thoothukudi (Tuticorin),Tamil Nadu,Orange 
+Tiruchirappalli (Trichy),Tamil Nadu,Orange 
+Tirupathur,Tamil Nadu,Orange 
+Kanyakumari,Tamil Nadu,Orange 
+Tiruvannamalai,Tamil Nadu,Orange 
+Ramanathapuram,Tamil Nadu,Orange 
+Tirunelveli,Tamil Nadu,Orange 
+The Nilgiris,Tamil Nadu,Orange 
+Sivaganga,Tamil Nadu,Orange 
+Perambalur,Tamil Nadu,Orange 
+Kallakurichi,Tamil Nadu,Orange 
+Ariyalur,Tamil Nadu,Orange 
+Erode,Tamil Nadu,Orange 
+Pudukkottai,Tamil Nadu,Orange 
+Dharmapuri,Tamil Nadu,Orange 
+Krishnagiri,Tamil Nadu,Green 
+Hyderabad,Telangana,Red 
+Suryapet,Telangana,Red 
+Ranga Reddy,Telangana,Red 
+Medchal Malkajgiri,Telangana,Red 
+Vikarabad,Telangana,Red 
+Warangal Urban,Telangana,Red 
+Nizamabad,Telangana,Orange 
+Jogulamba Gadwal,Telangana,Orange 
+Nirmal,Telangana,Orange 
+Nalgonda,Telangana,Orange 
+Adilabad,Telangana,Orange 
+Sangareddy,Telangana,Orange 
+Kamareddy,Telangana,Orange 
+Komaram Bheem Asifabad,Telangana,Orange 
+Karimnagar,Telangana,Orange 
+Khammam,Telangana,Orange 
+Mahabubnagar,Telangana,Orange 
+Jagitial,Telangana,Orange 
+Rajanna Sircilla,Telangana,Orange 
+Jayashankar Bhupalpally,Telangana,Orange 
+Medak,Telangana,Orange 
+Jangoan,Telangana,Orange 
+Narayanpet,Telangana,Orange 
+Mancherial,Telangana,Orange 
+Peddapalli,Telangana,Green 
+Nagarkurnool,Telangana,Green 
+Mulugu,Telangana,Green 
+Bhadradri Kothagudem,Telangana,Green 
+Mahabubabad,Telangana,Green 
+Siddipet,Telangana,Green 
+Warangal Rural,Telangana,Green 
+Wanaparthy,Telangana,Green 
+Yadadri Bhuvanagiri,Telangana,Green 
+North Tripura,Tripura,Orange 
+Gomati,Tripura,Orange 
+Dhalai,Tripura,Green 
+South Tripura,Tripura,Green 
+West Tripura,Tripura,Green 
+Khowai,Tripura,Green 
+Sepahijala,Tripura,Green 
+Unakoti,Tripura,Green 
+Agra,Uttar Pradesh,Red 
+Lucknow,Uttar Pradesh,Red 
+Saharanpur,Uttar Pradesh,Red 
+Kanpur Nagar,Uttar Pradesh,Red 
+Moradabad,Uttar Pradesh,Red 
+Firozabad,Uttar Pradesh,Red 
+Gautam Buddh Nagar (Noida and Greater Noida),Uttar Pradesh,Red 
+Bulandshahr,Uttar Pradesh,Red 
+Meerut,Uttar Pradesh,Red 
+Raebareli,Uttar Pradesh,Red 
+Varanasi (Banaras),Uttar Pradesh,Red 
+Bijnor,Uttar Pradesh,Red 
+Amroha,Uttar Pradesh,Red 
+Sant Kabir Nagar,Uttar Pradesh,Red 
+Aligarh,Uttar Pradesh,Red 
+Muzaffarnagar,Uttar Pradesh,Red 
+Rampur,Uttar Pradesh,Red 
+Mathura,Uttar Pradesh,Red 
+Bareilly,Uttar Pradesh,Red 
+Ghaziabad,Uttar Pradesh,Orange 
+Hapur,Uttar Pradesh,Orange 
+Baghpat,Uttar Pradesh,Orange 
+Basti,Uttar Pradesh,Orange 
+Budaun,Uttar Pradesh,Orange 
+Sambhal,Uttar Pradesh,Orange 
+Auraiya,Uttar Pradesh,Orange 
+Shamli,Uttar Pradesh,Orange 
+Sitapur,Uttar Pradesh,Orange 
+Bahraich,Uttar Pradesh,Orange 
+Kannauj,Uttar Pradesh,Orange 
+Azamgarh,Uttar Pradesh,Orange 
+Mainpuri,Uttar Pradesh,Orange 
+Shravasti,Uttar Pradesh,Orange 
+Banda,Uttar Pradesh,Orange 
+Jaunpur,Uttar Pradesh,Orange 
+Etah,Uttar Pradesh,Orange 
+Kasganj,Uttar Pradesh,Orange 
+Sultanpur,Uttar Pradesh,Orange 
+Prayagraj (Allahabad),Uttar Pradesh,Orange 
+Jalaun,Uttar Pradesh,Orange 
+Mirzapur,Uttar Pradesh,Orange 
+Etawah,Uttar Pradesh,Orange 
+Pratapgarh,Uttar Pradesh,Orange 
+Ghazipur,Uttar Pradesh,Orange 
+Gonda,Uttar Pradesh,Orange 
+Mau,Uttar Pradesh,Orange 
+Bhadohi,Uttar Pradesh,Orange 
+Unnao,Uttar Pradesh,Orange 
+Pilibhit,Uttar Pradesh,Orange 
+Balrampur,Uttar Pradesh,Orange 
+Ayodhya (Faizabad),Uttar Pradesh,Orange 
+Gorakhpur,Uttar Pradesh,Orange 
+Jhansi,Uttar Pradesh,Orange 
+Hardoi,Uttar Pradesh,Orange 
+Kaushambi,Uttar Pradesh,Orange 
+Barabanki,Uttar Pradesh,Green 
+Kheri,Uttar Pradesh,Green 
+Hathras,Uttar Pradesh,Green 
+Maharajganj,Uttar Pradesh,Green 
+Shahjahanpur,Uttar Pradesh,Green 
+Ambedkar Nagar,Uttar Pradesh,Green 
+Ballia,Uttar Pradesh,Green 
+Chandauli,Uttar Pradesh,Green 
+Chitrakoot,Uttar Pradesh,Green 
+Deoria,Uttar Pradesh,Green 
+Farrukhabad,Uttar Pradesh,Green 
+Fatehpur,Uttar Pradesh,Green 
+Hamirpur,Uttar Pradesh,Green 
+Kanpur Dehat,Uttar Pradesh,Green 
+Kushi Nagar,Uttar Pradesh,Green 
+Lalitpur,Uttar Pradesh,Green 
+Mahoba,Uttar Pradesh,Green 
+Siddharth Nagar,Uttar Pradesh,Green 
+Sonbhadra,Uttar Pradesh,Green 
+Amethi,Uttar Pradesh,Green 
+Haridwar,Uttarakhand,Red 
+Dehradun,Uttarakhand,Orange 
+Nainital,Uttarakhand,Orange 
+Udham Singh Nagar,Uttarakhand,Green 
+Almora,Uttarakhand,Green 
+Pauri Garhwal,Uttarakhand,Green 
+Bageshwar,Uttarakhand,Green 
+Chamoli,Uttarakhand,Green 
+Champawat,Uttarakhand,Green 
+Pithoragarh,Uttarakhand,Green 
+Rudraprayag,Uttarakhand,Green 
+Tehri Garhwal,Uttarakhand,Green 
+Uttarkashi,Uttarakhand,Green 
+Kolkata,West Bengal,Red 
+Howrah,West Bengal,Red 
+North 24 Parganas,West Bengal,Red 
+South 24 Parganas,West Bengal,Red 
+Paschim Medinipur (West Midnapore),West Bengal,Red 
+Purba Medinipur (East Midnapore),West Bengal,Red 
+Darjeeling,West Bengal,Red 
+Jalpaiguri,West Bengal,Red 
+Kalimpong,West Bengal,Red 
+Malda,West Bengal,Red 
+Hooghly,West Bengal,Orange 
+Paschim Bardhaman,West Bengal,Orange 
+Nadia,West Bengal,Orange 
+Purba Bardhaman,West Bengal,Orange 
+Murshidabad,West Bengal,Orange 
+Uttar Dinajpur,West Bengal,Geen 
+Bankura,West Bengal,Geen 
+Birbhum,West Bengal,Geen 
+Cooch Behar,West Bengal,Geen 
+Dakshin Dinajpur,West Bengal,Geen 
+Purulia,West Bengal,Geen 
+Alipurduar,West Bengal,Geen 
+Jhargram,West Bengal,Geen 
